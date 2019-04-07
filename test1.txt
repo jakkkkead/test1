@@ -1,2 +1,2 @@
-private int a =10;
+private int a =12;
 private double b = 12.0;
