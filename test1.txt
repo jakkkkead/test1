@@ -1,2 +1,3 @@
+打开的方法
 private int a =12;
 private double b = 12.0;
